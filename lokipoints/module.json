@@ -1,0 +1,24 @@
+{
+  "id": "lokipoints",
+  "title": "LokiPoints",
+  "version": "1.0.0",
+  "esmodules": [ "main.js" ],
+  "styles": [ "styles.css" ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": ""
+}
