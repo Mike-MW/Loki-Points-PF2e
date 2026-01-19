@@ -1,0 +1,18 @@
+.loki-points [data-resource="lokiPoints"] {
+    display: inline-flex;
+    gap: 0.25rem;
+    align-items: center;
+}
+
+.loki-points i,
+.loki-points img {
+    display: inline-block;
+}
+.loki-dot {
+    width: 1em;
+    height: 1em;
+    max-width: 1em;
+    max-height: 1em;
+    object-fit: contain;
+    vertical-align: -0.125em; /* aligns with FA icons */
+}
