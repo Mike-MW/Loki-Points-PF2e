@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "esmodules": [ "main.js" ],
   "styles": [ "styles.css" ],
-  "manifest": "https://raw.githubusercontent.com/Mike-MW/Loki-Points-PF2e/main/lokipoints/module.json",
+  "manifest": "https://raw.githubusercontent.com/Mike-MW/Loki-Points-PF2e/main/module.json",
   "download": "https://github.com/Mike-MW/Loki-Points-PF2e/releases/download/v1.0.0/lokipoints.zip",
   "compatibility": {
     "minimum": "13",
